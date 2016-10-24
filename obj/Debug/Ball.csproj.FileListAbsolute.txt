@@ -1,0 +1,6 @@
+C:\Users\LemonjaxDev\Desktop\Ball\bin\Debug\Ball.exe.config
+C:\Users\LemonjaxDev\Desktop\Ball\bin\Debug\Ball.exe
+C:\Users\LemonjaxDev\Desktop\Ball\bin\Debug\Ball.pdb
+C:\Users\LemonjaxDev\Desktop\Ball\obj\Debug\Ball.csprojResolveAssemblyReference.cache
+C:\Users\LemonjaxDev\Desktop\Ball\obj\Debug\Ball.exe
+C:\Users\LemonjaxDev\Desktop\Ball\obj\Debug\Ball.pdb

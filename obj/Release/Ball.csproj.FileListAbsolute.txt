@@ -1,0 +1,5 @@
+C:\Users\LemonjaxDev\Desktop\Ball\bin\Release\Ball.exe.config
+C:\Users\LemonjaxDev\Desktop\Ball\bin\Release\Ball.exe
+C:\Users\LemonjaxDev\Desktop\Ball\bin\Release\Ball.pdb
+C:\Users\LemonjaxDev\Desktop\Ball\obj\Release\Ball.exe
+C:\Users\LemonjaxDev\Desktop\Ball\obj\Release\Ball.pdb
